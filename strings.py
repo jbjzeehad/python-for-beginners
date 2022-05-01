@@ -10,4 +10,4 @@ print('24')
 
 #backslash \ is a special character called escape character
 
-print('Rahim\'s friend Karim is my brother. He\'s a very good person')
+print('Rahim\'s friend Karim is my brother. He\'s a very good person') #quote in a string using backslash. same as double quotes
