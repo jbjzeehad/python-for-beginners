@@ -20,3 +20,10 @@ print (-8 * 6) #negative numbers
 print (123456789 * 12345) #can perform operations with big numbers 
 
 #data types
+
+print ("Hot Weather") #string
+print (42 + 77) #integers
+print (6 / 2) #floats
+print ((4.25 + 5.3)+(6.23 / 2)) #alwayss float
+
+#mathematical operations
