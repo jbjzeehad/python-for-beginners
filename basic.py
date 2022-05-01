@@ -27,3 +27,11 @@ print (6 / 2) #floats
 print ((4.25 + 5.3)+(6.23 / 2)) #alwayss float
 
 #mathematical operations
+
+print (2 ** 3) #two ** means power
+print (2 ** 3 ** 2) #chain exponentiations
+print (9 ** (1 / 2)) #floats in exponentiation
+print (20 // 6) #floor division operator // to avoid float called quotient 
+print (1024 % 42) #remainder
+print (1.25 % 0.5) #remainder with floats
+print (4.2 // 1.4) #floor division with floats 
