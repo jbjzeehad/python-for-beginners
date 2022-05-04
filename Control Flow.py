@@ -32,7 +32,34 @@ if age>8 :
 if age <=47 :
     print("ok Done") #False
 
+i=4
+if i==5 :
+    print("Yes")
+else :
+    print("No") #no
 
+
+num = 3
+if num == 1:
+  print("One")
+else: 
+  if num == 2:
+    print("Two")
+  else: 
+    if num == 3: 
+      print("Three")
+    else: 
+      print("Something else") #three : indentation vsry importatnt
+
+nm = 3
+if nm == 1:
+  print("One")
+elif nm == 2:
+  print("Two")
+elif nm == 3: 
+  print("Three")
+else: 
+  print("Something else") #if else : elif
 
 
 
