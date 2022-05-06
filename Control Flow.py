@@ -26,7 +26,7 @@ if z>5 :
 
 age=70
 if age>5 :
-    print("Five") #Five output
+    print("Five") #output : Five
 if age>8 :
     print("Eight") #Eight output
 if age <=47 :
