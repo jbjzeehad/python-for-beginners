@@ -1,3 +1,3 @@
-# Python for Beginners 
+# <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python for Beginners </a>
 
 Python is a popular, easy-to-learn, and very powerful programming language, which is used in software and web development, data science, machine learning, and many other fields. I’ll cover the basic concepts of Python, with codes. Python for Beginners requires no prior programming experience, so let’s gooo...!
