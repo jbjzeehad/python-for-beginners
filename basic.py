@@ -15,7 +15,7 @@ print (17.01)
 
 print (1 + 2 ) #add
 print (5 - 4 + 3) #sub
-print (4 * 5) #mul
+print (4 * 5) #multiply
 print (10 / 2) #div > always produce decimal or float
 print (4 * (6 - 2)) #can use () like regular math 
 print (-8 * 6) #negative numbers
@@ -37,5 +37,6 @@ print (20 // 6) #floor division operator // to avoid float called quotient
 print (1024 % 42) #remainder
 print (1.25 % 0.5) #remainder with floats
 print (4.2 // 1.4) #floor division with floats 
+
 
 #part 01
