@@ -6,4 +6,4 @@ Python is a popular, easy-to-learn, and very powerful programming language, whic
 
 <p align="center"> <a href="https://www.sololearn.com/certificates/course/en/25352936/1172/landscape/png" target="_blank" rel="noreferrer"> <img src="cert-25352936-1172.png" alt="" width="460" height="323"/></a></p>
 
-# <a href="https://youtu.be/BASWY9biL0c" target="_blank" rel="noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/YouTube-logo-PNG-HD-1024x928.png" alt="Youtube" width="61" height="61"/> Watch Full Video</a>
+# <a href="https://youtu.be/BASWY9biL0c" target="_blank" rel="noreferrer"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/YouTube-logo-PNG-HD-1024x928.png" alt="Youtube" width="71" height="71"/> Watch Full Video</a>
